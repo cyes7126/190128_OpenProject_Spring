@@ -1,8 +1,8 @@
 # 190128_OpenProject_Spring
 
-개발기간 : 2019.01.28 ~ 2019.02.08(2 Weeks)
-참여인원 : 1명
-목적: Spring Framwork를 사용하여 기본적인 CRUD와 암호화, Intercepter를 사용한다.
+개발기간 : 2019.01.28 ~ 2019.02.08(2 Weeks)<br>
+참여인원 : 1명<br>
+목적: Spring Framwork를 사용하여 기본적인 CRUD와 암호화, Intercepter를 사용한다.<br>
 개발환경: windows, JAVA, Spring, MyBatis, HTML, MySQL, Tomcat8
 <hr>
 
